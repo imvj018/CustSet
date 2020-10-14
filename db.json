@@ -1,6 +1,4 @@
-{
-	"d": {
-		"results": [
+[
 			{
 				"__metadata": {
 					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300021')",
@@ -991,28 +989,28 @@
 			},
 			{
 				"__metadata": {
-					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')",
-					"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')",
+					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300036')",
+					"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300036')",
 					"type": "ZSL_EPM_DEMO_SRV.Customer"
 				},
-				"KUNNR": "300030",
+				"KUNNR": "300036",
 				"Country": "KW",
-				"Name": "COLONY RESTAURANT - MAIN",
+				"Name": "Olive",
 				"Name2": "",
-				"City": "Hawally",
-				"Postal": "12345",
-				"Region": "",
-				"Search": "COLONY RES",
-				"Street": "123 12,Cairo Street",
+				"City": "Abbasiya",
+				"Postal": "11111",
+				"Region": "KW",
+				"Search": "OLIVE",
+				"Street": "",
 				"Telephone": "",
 				"Faxnumber": "",
-				"Address": "23949",
-				"MName": "COLONY RESTAURANT - MAIN",
+				"Address": "24167",
+				"MName": "OLIVE",
 				"MName2": "",
-				"Mcity": "HAWALLY",
+				"Mcity": "ABBASIYA",
 				"Location1": "0000000",
 				"Location2": "00000",
-				"Createdon": "/Date(1596412800000)/",
+				"Createdon": "/Date(1601856000000)/",
 				"CreatedBy": "FDEV_SD",
 				"Countycode": "",
 				"Citycode": "",
@@ -1023,7 +1021,7 @@
 				"Employee": "000000",
 				"custtooheader": {
 					"__deferred": {
-						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')/custtooheader"
+						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300036')/custtooheader"
 					}
 				}
 			},
@@ -1406,7 +1404,119 @@
 						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300029')/custtooheader"
 					}
 				}
+			},
+			{
+				"__metadata": {
+					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('100020')",
+					"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('100020')",
+					"type": "ZSL_EPM_DEMO_SRV.Customer"
+				},
+				"KUNNR": "100020",
+				"Country": "KW",
+				"Name": "Testing BP",
+				"Name2": "",
+				"City": "Kuwait",
+				"Postal": "12345",
+				"Region": "KW",
+				"Search": "BP",
+				"Street": "No 13 a kaveri street",
+				"Telephone": "",
+				"Faxnumber": "",
+				"Address": "24170",
+				"MName": "TESTING BP",
+				"MName2": "",
+				"Mcity": "KUWAIT",
+				"Location1": "0000000",
+				"Location2": "00000",
+				"Createdon": "/Date(1601856000000)/",
+				"CreatedBy": "FDEV_MM",
+				"Countycode": "",
+				"Citycode": "",
+				"Language": "EN",
+				"Tele2": "",
+				"Salespartner": false,
+				"Currency": "",
+				"Employee": "000000",
+				"custtooheader": {
+					"__deferred": {
+						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('100020')/custtooheader"
+					}
+				}
+			},
+			{
+				"__metadata": {
+					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')",
+					"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')",
+					"type": "ZSL_EPM_DEMO_SRV.Customer"
+				},
+				"KUNNR": "300030",
+				"Country": "KW",
+				"Name": "COLONY RESTAURANT - MAIN",
+				"Name2": "",
+				"City": "Hawally",
+				"Postal": "12345",
+				"Region": "",
+				"Search": "COLONY RES",
+				"Street": "123 12,Cairo Street",
+				"Telephone": "",
+				"Faxnumber": "",
+				"Address": "23949",
+				"MName": "COLONY RESTAURANT - MAIN",
+				"MName2": "",
+				"Mcity": "HAWALLY",
+				"Location1": "0000000",
+				"Location2": "00000",
+				"Createdon": "/Date(1596412800000)/",
+				"CreatedBy": "FDEV_SD",
+				"Countycode": "",
+				"Citycode": "",
+				"Language": "EN",
+				"Tele2": "",
+				"Salespartner": false,
+				"Currency": "",
+				"Employee": "000000",
+				"custtooheader": {
+					"__deferred": {
+						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300030')/custtooheader"
+					}
+				}
+			},
+			{
+				"__metadata": {
+					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300037')",
+					"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300037')",
+					"type": "ZSL_EPM_DEMO_SRV.Customer"
+				},
+				"KUNNR": "300037",
+				"Country": "KW",
+				"Name": "FFC Cash Sales Customer",
+				"Name2": "",
+				"City": "One Time",
+				"Postal": "11111",
+				"Region": "KW",
+				"Search": "FFC CASH S",
+				"Street": "One Time",
+				"Telephone": "",
+				"Faxnumber": "",
+				"Address": "24184",
+				"MName": "FFC CASH SALES CUSTOMER",
+				"MName2": "",
+				"Mcity": "ONE TIME",
+				"Location1": "0000000",
+				"Location2": "00000",
+				"Createdon": "/Date(1602115200000)/",
+				"CreatedBy": "FDEV_SD",
+				"Countycode": "",
+				"Citycode": "",
+				"Language": "EN",
+				"Tele2": "",
+				"Salespartner": false,
+				"Currency": "",
+				"Employee": "000000",
+				"custtooheader": {
+					"__deferred": {
+						"uri": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300037')/custtooheader"
+					}
+				}
 			}
 		]
-	}
-}
