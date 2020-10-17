@@ -1,6 +1,4 @@
-{
-	"d": {
-		"results": [
+[
 			{
 				"__metadata": {
 					"id": "http://185.95.4.61:8011/sap/opu/odata/sap/ZSL_EPM_DEMO_SRV/CustomerSet('300021')",
@@ -1522,5 +1520,4 @@
 				}
 			}
 		]
-	}
-}
+	
