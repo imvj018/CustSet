@@ -1,0 +1,21 @@
+{
+  "body": [
+    {
+      "tono": "0",
+      "store": "",
+      "todate": "0000-00-00",
+      "refdoc": "",
+      "refer": "",
+      "val": ""
+    },
+    {
+      "tono": "1",
+      "store": "W01",
+      "todate": "2021-03-10",
+      "refdoc": "P-01",
+      "refer": "Test",
+      "val": "create"
+    }
+  ],
+  "itemCount": 2
+}
