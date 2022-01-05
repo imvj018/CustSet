@@ -1,506 +1,506 @@
 {
    "Test PO":[
       {
-         "PO Number":"5000000252",
-         "Vendor no":"100031",
-         "Vendor name" : " JUPITER TRADERS",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000252",
+         "Vendor no" : "100031",
+         "Vendor name" : "JUPITER TRADERS",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111971",
-               "Short text":"Install Manual (W) Guarantee Card-HS",
-               "order quantity":"1,996",
-               "order unit":"EA",
-               "net price":"5.30",
-               "currency":"INR",
-               "std":"1,996"
+               "Material" : "111971",
+               "Short text" : "Install Manual (W) Guarantee Card-HS",
+               "order quantity" : "1,996",
+               "order unit" : "EA",
+               "net price" : "5.30",
+               "currency" : "INR",
+               "std" : "1,996"
             },
             {
-               "Material":"112502",
-               "Short text":"Sticker BEE Star Label- 015CU",
-               "order quantity":"495",
-               "order unit":"EA",
-               "net price":"0.82",
-               "currency":"INR",
-               "std":"495"
+               "Material" : "112502",
+               "Short text" : "Sticker BEE Star Label- 015CU",
+               "order quantity" : "495",
+               "order unit" : "EA",
+               "net price" : "0.82",
+               "currency" : "INR",
+               "std" : "495"
             }
          ]
       },
       {
-         "PO Number":"5000000253",
-         "Vendor no":"100031",
-         "Vendor name" : " JUPITER TRADERS",
-         "Purchasing group":"P5",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000253",
+         "Vendor no" : "100031",
+         "Vendor name" : "JUPITER TRADERS",
+         "Purchasing group" : "P5",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111800",
-               "Short text":"Sticker BEE Star Label-025GVM",
-               "order quantity":"150",
-               "order unit":"EA",
-               "net price":"0.77",
-               "currency":"INR",
-               "std":"150"
+               "Material" : "111800",
+               "Short text" : "Sticker BEE Star Label-025GVM",
+               "order quantity" : "150",
+               "order unit" : "EA",
+               "net price" : "0.77",
+               "currency" : "INR",
+               "std" : "150"
             },
             {
-               "Material":"112753",
-               "Short text":"Sticker BEE Star Label- 025CV",
-               "order quantity":"1,000",
-               "order unit":"EA",
-               "net price":"0.90",
-               "currency":"INR",
-               "std":"1,000"
+               "Material" : "112753",
+               "Short text" : "Sticker BEE Star Label- 025CV",
+               "order quantity" : "1,000",
+               "order unit" : "EA",
+               "net price" : "0.90",
+               "currency" : "INR",
+               "std" : "1,000"
             }
          ]
       },
       {
-         "PO Number":"5000000259",
-         "Vendor no":"100047",
-         "Vendor name" : " THEETA ELECTRICALS PVT LTD",
-         "Purchasing group":"P5",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000259",
+         "Vendor no" : "100047",
+         "Vendor name" : "THEETA ELECTRICALS PVT LTD",
+         "Purchasing group" : "P5",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111476",
-               "Short text":"Cu Tubular Element-J-Nut-2 KW-VL-SP",
-               "order quantity":"360",
-               "order unit":"EA",
-               "net price":"243.00",
-               "currency":"INR",
-               "std":"360"
+               "Material" : "111476",
+               "Short text" : "Cu Tubular Element-J-Nut-2 KW-VL-SP",
+               "order quantity" : "360",
+               "order unit" : "EA",
+               "net price" : "243.00",
+               "currency" : "INR",
+               "std" : "360"
             },
             {
-               "Material":"110227",
-               "Short text":"Cu Tubular Element Spiral-3KW-3L30/3R/6L",
-               "order quantity":"40",
-               "order unit":"EA",
-               "net price":"214.00",
-               "currency":"INR",
-               "std":"40"
+               "Material" : "110227",
+               "Short text" : "Cu Tubular Element Spiral-3KW-3L30/3R/6L",
+               "order quantity" : "40",
+               "order unit" : "EA",
+               "net price" : "214.00",
+               "currency" : "INR",
+               "std" : "40"
             },
             {
-               "Material":"110228",
-               "Short text":"Cu Tubular Element-J-Nut-4.5 KW-L45/P45",
-               "order quantity":"50",
-               "order unit":"EA",
-               "net price":"213.00",
-               "currency":"INR",
-               "std":"50"
+               "Material" : "110228",
+               "Short text" : "Cu Tubular Element-J-Nut-4.5 KW-L45/P45",
+               "order quantity" : "50",
+               "order unit" : "EA",
+               "net price" : "213.00",
+               "currency" : "INR",
+               "std" : "50"
             }
          ]
       },
       {
-         "PO Number":"5000000254",
-         "Vendor no":"100089",
-         "Vendor name" : " PRIYA PACKAGINGS",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000254",
+         "Vendor no" : "100089",
+         "Vendor name" : "PRIYA PACKAGINGS",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"120200",
-               "Short text":"Thermocole -06/10/15GV/EV/EH/GH/25GH/EH",
-               "order quantity":"112",
-               "order unit":"EA",
-               "net price":"73.51",
-               "currency":"INR",
-               "std":"112"
+               "Material" : "120200",
+               "Short text" : "Thermocole -06/10/15GV/EV/EH/GH/25GH/EH",
+               "order quantity" : "112",
+               "order unit" : "EA",
+               "net price" : "73.51",
+               "currency" : "INR",
+               "std" : "112"
             },
             {
-               "Material":"120430",
-               "Short text":"Thermocole Buffer-25GV/EV/35GV/GH",
-               "order quantity":"120",
-               "order unit":"EA",
-               "net price":"105.38",
-               "currency":"INR",
-               "std":"120"
+               "Material" : "120430",
+               "Short text" : "Thermocole Buffer-25GV/EV/35GV/GH",
+               "order quantity" : "120",
+               "order unit" : "EA",
+               "net price" : "105.38",
+               "currency" : "INR",
+               "std" : "120"
             }
          ]
       },
       {
-         "PO Number":"5000000255",
-         "Vendor no":"100089",
-         "Vendor name" : " PRIYA PACKAGINGS",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000255",
+         "Vendor no" : "100089",
+         "Vendor name" : "PRIYA PACKAGINGS",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"120086",
-               "Short text":"Corr Box 3L30/3L45",
-               "order quantity":"500",
-               "order unit":"EA",
-               "net price":"56.77",
-               "currency":"INR",
-               "std":"500"
+               "Material" : "120086",
+               "Short text" : "Corr Box 3L30/3L45",
+               "order quantity" : "500",
+               "order unit" : "EA",
+               "net price" : "56.77",
+               "currency" : "INR",
+               "std" : "500"
             },
             {
-               "Material":"120430",
-               "Short text":"Thermocole Buffer-25GV/EV/35GV/GH",
-               "order quantity":"45",
-               "order unit":"EA",
-               "net price":"105.38",
-               "currency":"INR",
-               "std":"45"
+               "Material" : "120430",
+               "Short text" : "Thermocole Buffer-25GV/EV/35GV/GH",
+               "order quantity" : "45",
+               "order unit" : "EA",
+               "net price" : "105.38",
+               "currency" : "INR",
+               "std" : "45"
             }
          ]
       },
       {
-         "PO Number":"5000000248",
-         "Vendor no":"100166",
-         "Vendor name" : " IYKOT HITECH TOOLROOM LTD.",
-         "Purchasing group":"P5",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000248",
+         "Vendor no" : "100166",
+         "Vendor name" : "IYKOT HITECH TOOLROOM LTD.",
+         "Purchasing group" : "P5",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111902",
-               "Short text":"ABS Front Housing-015R/RX/RD-Ivory",
-               "order quantity":"120",
-               "order unit":"EA",
-               "net price":"232.00",
-               "currency":"INR",
-               "std":"120"
+               "Material" : "111902",
+               "Short text" : "ABS Front Housing-015R/RX/RD-Ivory",
+               "order quantity" : "120",
+               "order unit" : "EA",
+               "net price" : "232.00",
+               "currency" : "INR",
+               "std" : "120"
             },
             {
-               "Material":"111903",
-               "Short text":"ABS Rear housing-015R/RX/RD-Ivory",
-               "order quantity":"120",
-               "order unit":"EA",
-               "net price":"220.00",
-               "currency":"INR",
-               "std":"120"
+               "Material" : "111903",
+               "Short text" : "ABS Rear housing-015R/RX/RD-Ivory",
+               "order quantity" : "120",
+               "order unit" : "EA",
+               "net price" : "220.00",
+               "currency" : "INR",
+               "std" : "120"
             }
          ]
       },
       {
-         "PO Number":"5000000249",
-         "Vendor no":"100166",
-         "Vendor name" : " IYKOT HITECH TOOLROOM LTD.",
-         "Purchasing group":"P1",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000249",
+         "Vendor no" : "100166",
+         "Vendor name" : "IYKOT HITECH TOOLROOM LTD.",
+         "Purchasing group" : "P1",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111905",
-               "Short text":"ABS Inspection Cover-10/15R/RX/RD-Ivory",
-               "order quantity":"120",
-               "order unit":"EA",
-               "net price":"40.00",
-               "currency":"INR",
-               "std":"120"
+               "Material" : "111905",
+               "Short text" : "ABS Inspection Cover-10/15R/RX/RD-Ivory",
+               "order quantity" : "120",
+               "order unit" : "EA",
+               "net price" : "40.00",
+               "currency" : "INR",
+               "std" : "120"
             },
             {
-               "Material":"110575",
-               "Short text":"ABS Front Housing 3L30/3L45- Ivory",
-               "order quantity":"250",
-               "order unit":"EA",
-               "net price":"133.00",
-               "currency":"INR",
-               "std":"250"
+               "Material" : "110575",
+               "Short text" : "ABS Front Housing 3L30/3L45- Ivory",
+               "order quantity" : "250",
+               "order unit" : "EA",
+               "net price" : "133.00",
+               "currency" : "INR",
+               "std" : "250"
             },
             {
-               "Material":"110630",
-               "Short text":"ABS Rear Housing 3L30/3L45- Ivory",
-               "order quantity":"250",
-               "order unit":"EA",
-               "net price":"127.00",
-               "currency":"INR",
-               "std":"250"
+               "Material" : "110630",
+               "Short text" : "ABS Rear Housing 3L30/3L45- Ivory",
+               "order quantity" : "250",
+               "order unit" : "EA",
+               "net price" : "127.00",
+               "currency" : "INR",
+               "std" : "250"
             }
          ]
       },
       {
-         "PO Number":"5000000250",
-         "Vendor no":"100166",
-         "Vendor name" : " IYKOT HITECH TOOLROOM LTD.",
-         "Purchasing group":"P1",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000250",
+         "Vendor no" : "100166",
+         "Vendor name" : "IYKOT HITECH TOOLROOM LTD.",
+         "Purchasing group" : "P1",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111392",
-               "Short text":"ABS FRONT HOUSING-010GL- IVORY",
-               "order quantity":"100",
-               "order unit":"EA",
-               "net price":"206.00",
-               "currency":"INR",
-               "std":"100"
+               "Material" : "111392",
+               "Short text" : "ABS FRONT HOUSING-010GL- IVORY",
+               "order quantity" : "100",
+               "order unit" : "EA",
+               "net price" : "206.00",
+               "currency" : "INR",
+               "std" : "100"
             },
             {
-               "Material":"111395",
-               "Short text":"ABS Rear Housing-10GL-Ivory",
-               "order quantity":"100",
-               "order unit":"EA",
-               "net price":"164.00",
-               "currency":"INR",
-               "std":"100"
+               "Material" : "111395",
+               "Short text" : "ABS Rear Housing-10GL-Ivory",
+               "order quantity" : "100",
+               "order unit" : "EA",
+               "net price" : "164.00",
+               "currency" : "INR",
+               "std" : "100"
             },
             {
-               "Material":"111391",
-               "Short text":"ABS FRONT HOUSING-010GL- WHITE",
-               "order quantity":"340",
-               "order unit":"EA",
-               "net price":"206.00",
-               "currency":"INR",
-               "std":"340"
+               "Material" : "111391",
+               "Short text" : "ABS FRONT HOUSING-010GL- WHITE",
+               "order quantity" : "340",
+               "order unit" : "EA",
+               "net price" : "206.00",
+               "currency" : "INR",
+               "std" : "340"
             }
          ]
       },
       {
-         "PO Number":"5000000251",
-         "Vendor no":"100166",
-         "Vendor name" : " IYKOT HITECH TOOLROOM LTD.",
-         "Purchasing group":"P5",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000251",
+         "Vendor no" : "100166",
+         "Vendor name" : "IYKOT HITECH TOOLROOM LTD.",
+         "Purchasing group" : "P5",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111394",
-               "Short text":"ABS Rear Housing-10GL-White",
-               "order quantity":"340",
-               "order unit":"EA",
-               "net price":"164.00",
-               "currency":"INR",
-               "std":"340"
+               "Material" : "111394",
+               "Short text" : "ABS Rear Housing-10GL-White",
+               "order quantity" : "340",
+               "order unit" : "EA",
+               "net price" : "164.00",
+               "currency" : "INR",
+               "std" : "340"
             },
             {
-               "Material":"111716",
-               "Short text":"Natural ABS Inspec Cover -006/10GL",
-               "order quantity":"440",
-               "order unit":"EA",
-               "net price":"28.00",
-               "currency":"INR",
-               "std":"440"
+               "Material" : "111716",
+               "Short text" : "Natural ABS Inspec Cover -006/10GL",
+               "order quantity" : "440",
+               "order unit" : "EA",
+               "net price" : "28.00",
+               "currency" : "INR",
+               "std" : "440"
             },
             {
-               "Material":"111707",
-               "Short text":"Natural ABS Display panel-06/10GL",
-               "order quantity":"440",
-               "order unit":"EA",
-               "net price":"10.00",
-               "currency":"INR",
-               "std":"440"
+               "Material" : "111707",
+               "Short text" : "Natural ABS Display panel-06/10GL",
+               "order quantity" : "440",
+               "order unit" : "EA",
+               "net price" : "10.00",
+               "currency" : "INR",
+               "std" : "440"
             }
          ]
       },
       {
-         "PO Number":"5000000256",
-         "Vendor no":"100595",
-         "Vendor name" : " Surya Industries",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000256",
+         "Vendor no" : "100595",
+         "Vendor name" : "Surya Industries",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111964",
-               "Short text":"EPE Gasket OD195 x ID114 x 5mm-EV/GVM/R",
-               "order quantity":"5,000",
-               "order unit":"EA",
-               "net price":"3.40",
-               "currency":"INR",
-               "std":"5,000"
+               "Material" : "111964",
+               "Short text" : "EPE Gasket OD195 x ID114 x 5mm-EV/GVM/R",
+               "order quantity" : "5,000",
+               "order unit" : "EA",
+               "net price" : "3.40",
+               "currency" : "INR",
+               "std" : "5,000"
             },
             {
-               "Material":"111588",
-               "Short text":"EPE Sq Sheet 230xID130x5mm-GH/EH/EVX/VL",
-               "order quantity":"350",
-               "order unit":"EA",
-               "net price":"3.40",
-               "currency":"INR",
-               "std":"350"
+               "Material" : "111588",
+               "Short text" : "EPE Sq Sheet 230xID130x5mm-GH/EH/EVX/VL",
+               "order quantity" : "350",
+               "order unit" : "EA",
+               "net price" : "3.40",
+               "currency" : "INR",
+               "std" : "350"
             },
             {
-               "Material":"111587",
-               "Short text":"EPE Sq Sheet 230xID160x5mm-25 to 100GV",
-               "order quantity":"1,050",
-               "order unit":"EA",
-               "net price":"3.40",
-               "currency":"INR",
-               "std":"1,050"
+               "Material" : "111587",
+               "Short text" : "EPE Sq Sheet 230xID160x5mm-25 to 100GV",
+               "order quantity" : "1,050",
+               "order unit" : "EA",
+               "net price" : "3.40",
+               "currency" : "INR",
+               "std" : "1,050"
             }
          ]
       },
       {
-         "PO Number":"5000000257",
-         "Vendor no":"100595",
-         "Vendor name" : " Surya Industries",
-         "Purchasing group":"P1",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000257",
+         "Vendor no" : "100595",
+         "Vendor name" : "Surya Industries",
+         "Purchasing group" : "P1",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111441",
-               "Short text":"MS M8 ISI Washer",
-               "order quantity":"16,000",
-               "order unit":"EA",
-               "net price":"0.45",
-               "currency":"INR",
-               "std":"16,000"
+               "Material" : "111441",
+               "Short text" : "MS M8 ISI Washer",
+               "order quantity" : "16,000",
+               "order unit" : "EA",
+               "net price" : "0.45",
+               "currency" : "INR",
+               "std" : "16,000"
             },
             {
-               "Material":"111348",
-               "Short text":"MS Ele Cup OD 41mm",
-               "order quantity":"4,000",
-               "order unit":"EA",
-               "net price":"3.40",
-               "currency":"INR",
-               "std":"4,000"
+               "Material" : "111348",
+               "Short text" : "MS Ele Cup OD 41mm",
+               "order quantity" : "4,000",
+               "order unit" : "EA",
+               "net price" : "3.40",
+               "currency" : "INR",
+               "std" : "4,000"
             },
             {
-               "Material":"112186",
-               "Short text":"EPE Foam Pipe 50x25x50mm-HA",
-               "order quantity":"500",
-               "order unit":"EA",
-               "net price":"2.50",
-               "currency":"INR",
-               "std":"500"
+               "Material" : "112186",
+               "Short text" : "EPE Foam Pipe 50x25x50mm-HA",
+               "order quantity" : "500",
+               "order unit" : "EA",
+               "net price" : "2.50",
+               "currency" : "INR",
+               "std" : "500"
             }
          ]
       },
       {
-         "PO Number":"5000000258",
-         "Vendor no":"100595",
-         "Vendor name" : " Surya Industries",
-         "Purchasing group":"P1",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000258",
+         "Vendor no" : "100595",
+         "Vendor name" : "Surya Industries",
+         "Purchasing group" : "P1",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"112930",
-               "Short text":"MS Wall Clamp-EVX/EHX-50/80/100",
-               "order quantity":"10,000",
-               "order unit":"EA",
-               "net price":"3.40",
-               "currency":"INR",
-               "std":"10,000"
+               "Material" : "112930",
+               "Short text" : "MS Wall Clamp-EVX/EHX-50/80/100",
+               "order quantity" : "10,000",
+               "order unit" : "EA",
+               "net price" : "3.40",
+               "currency" : "INR",
+               "std" : "10,000"
             },
             {
-               "Material":"112186",
-               "Short text":"EPE Foam Pipe 50x25x50mm-HA",
-               "order quantity":"80",
-               "order unit":"EA",
-               "net price":"2.50",
-               "currency":"INR",
-               "std":"80"
+               "Material" : "112186",
+               "Short text" : "EPE Foam Pipe 50x25x50mm-HA",
+               "order quantity" : "80",
+               "order unit" : "EA",
+               "net price" : "2.50",
+               "currency" : "INR",
+               "std" : "80"
             }
          ]
       },
       {
-         "PO Number":"5000000260",
-         "Vendor no":"100605",
-         "Vendor name" : " Tritech Elastomers",
-         "Purchasing group":"P5",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000260",
+         "Vendor no" : "100605",
+         "Vendor name" : "Tritech Elastomers",
+         "Purchasing group" : "P5",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"111894",
-               "Short text":"Silicone Gasket OD85xID68x3.5mm-EV/GVM",
-               "order quantity":"600",
-               "order unit":"EA",
-               "net price":"7.36",
-               "currency":"INR",
-               "std":"600"
+               "Material" : "111894",
+               "Short text" : "Silicone Gasket OD85xID68x3.5mm-EV/GVM",
+               "order quantity" : "600",
+               "order unit" : "EA",
+               "net price" : "7.36",
+               "currency" : "INR",
+               "std" : "600"
             },
             {
-               "Material":"110783",
-               "Short text":"Neo Gasket D132mm-GH/EH/HS/EVX/6GV/GL",
-               "order quantity":"550",
-               "order unit":"EA",
-               "net price":"21.00",
-               "currency":"INR",
-               "std":"550"
+               "Material" : "110783",
+               "Short text" : "Neo Gasket D132mm-GH/EH/HS/EVX/6GV/GL",
+               "order quantity" : "550",
+               "order unit" : "EA",
+               "net price" : "21.00",
+               "currency" : "INR",
+               "std" : "550"
             }
          ]
       },
       {
-         "PO Number":"5000000261",
-         "Vendor no":"100605",
-         "Vendor name" : " Tritech Elastomers",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000261",
+         "Vendor no" : "100605",
+         "Vendor name" : "Tritech Elastomers",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"112087",
-               "Short text":"Neo Gasket OD139 x ID137 x 1mm-3L/3R",
-               "order quantity":"400",
-               "order unit":"EA",
-               "net price":"10.05",
-               "currency":"INR",
-               "std":"400"
+               "Material" : "112087",
+               "Short text" : "Neo Gasket OD139 x ID137 x 1mm-3L/3R",
+               "order quantity" : "400",
+               "order unit" : "EA",
+               "net price" : "10.05",
+               "currency" : "INR",
+               "std" : "400"
             },
             {
-               "Material":"112349",
-               "Short text":"EPDM Flange Gasket-FP",
-               "order quantity":"70",
-               "order unit":"EA",
-               "net price":"11.97",
-               "currency":"INR",
-               "std":"70"
+               "Material" : "112349",
+               "Short text" : "EPDM Flange Gasket-FP",
+               "order quantity" : "70",
+               "order unit" : "EA",
+               "net price" : "11.97",
+               "currency" : "INR",
+               "std" : "70"
             }
          ]
       },
       {
-         "PO Number":"5000000262",
-         "Vendor no":"100617",
-         "Vendor name" : " NELSON POLY PRINTS ",
-         "Purchasing group":"P4",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000262",
+         "Vendor no" : "100617",
+         "Vendor name" : "NELSON POLY PRINTS ",
+         "Purchasing group" : "P4",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"120375",
-               "Short text":"HMHDE Bag 800x580mm-10GV/15GV/GH/EV/GL/R",
-               "order quantity":"35.850",
-               "order unit":"KG",
-               "net price":"160.00",
-               "currency":"INR",
-               "std":"35.850"
+               "Material" : "120375",
+               "Short text" : "HMHDE Bag 800x580mm-10GV/15GV/GH/EV/GL/R",
+               "order quantity" : "35.850",
+               "order unit" : "KG",
+               "net price" : "160.00",
+               "currency" : "INR",
+               "std" : "35.850"
             },
             {
-               "Material":"120370",
-               "Short text":"HMHDE Bag 1000 x 580mm-25GH/EH/HS",
-               "order quantity":"100.400",
-               "order unit":"KG",
-               "net price":"160.00",
-               "currency":"INR",
-               "std":"100.400"
+               "Material" : "120370",
+               "Short text" : "HMHDE Bag 1000 x 580mm-25GH/EH/HS",
+               "order quantity" : "100.400",
+               "order unit" : "KG",
+               "net price" : "160.00",
+               "currency" : "INR",
+               "std" : "100.400"
             },
             {
-               "Material":"120376",
-               "Short text":"HMHDE Bag 975x680mm-25GV/EV/VL/GVM/GL/R",
-               "order quantity":"78.550",
-               "order unit":"KG",
-               "net price":"160.00",
-               "currency":"INR",
-               "std":"78.550"
+               "Material" : "120376",
+               "Short text" : "HMHDE Bag 975x680mm-25GV/EV/VL/GVM/GL/R",
+               "order quantity" : "78.550",
+               "order unit" : "KG",
+               "net price" : "160.00",
+               "currency" : "INR",
+               "std" : "78.550"
             }
          ]
       },
       {
-         "PO Number":"5000000263",
-         "Vendor no":"100617",
-         "Vendor name" : " NELSON POLY PRINTS ",
-         "Purchasing group":"P1",
-         "Doc date":"04-01-2022",
+         "PO Number" : "5000000263",
+         "Vendor no" : "100617",
+         "Vendor name" : "NELSON POLY PRINTS ",
+         "Purchasing group" : "P1",
+         "Doc date" : "04-01-2022",
          "Item details":[
             {
-               "Material":"120366",
-               "Short text":"PP Bag 245 x 160mm-Manual",
-               "order quantity":"104.800",
-               "order unit":"KG",
-               "net price":"165.00",
-               "currency":"INR",
-               "std":"104.800"
+               "Material" : "120366",
+               "Short text" : "PP Bag 245 x 160mm-Manual",
+               "order quantity" : "104.800",
+               "order unit" : "KG",
+               "net price" : "165.00",
+               "currency" : "INR",
+               "std" : "104.800"
             },
             {
-               "Material":"120369",
-               "Short text":"HMHDE Bag 670 x 360mm-3L/3R",
-               "order quantity":"54.900",
-               "order unit":"KG",
-               "net price":"160.00",
-               "currency":"INR",
-               "std":"54.900"
+               "Material" : "120369",
+               "Short text" : "HMHDE Bag 670 x 360mm-3L/3R",
+               "order quantity" : "54.900",
+               "order unit" : "KG",
+               "net price" : "160.00",
+               "currency" : "INR",
+               "std" : "54.900"
             },
             {
-               "Material":"120171",
-               "Short text":"Manual stretch film 500mm widx23 micron",
-               "order quantity":"103.850",
-               "order unit":"KG",
-               "net price":"200.00",
-               "currency":"INR",
-               "std":"103.850"
+               "Material" : "120171",
+               "Short text" : "Manual stretch film 500mm widx23 micron",
+               "order quantity" : "103.850",
+               "order unit" : "KG",
+               "net price" : "200.00",
+               "currency" : "INR",
+               "std" : "103.850"
             }
          ]
       }
